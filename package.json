@@ -15,25 +15,8 @@
     "http-errors": "~1.6.3",
     "jquery": "^3.6.0",
     "mongoose": "^6.0.8",
+    "nodemon": "^2.0.15",
     "morgan": "~1.9.1"
-  },
-  "description": "COMP229 W2022 Midterm template",
-  "main": "server.js",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/JViniX/comp229-W2022-midterm-template.git"
-  },
-  "keywords": [
-    "Midterm",
-    "COMP229",
-    "Test",
-    "Express",
-    "EJS"
-  ],
-  "author": "Julio Vinicius",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/JViniX/comp229-W2022-midterm-template/issues"
-  },
-  "homepage": "https://github.com/JViniX/comp229-W2022-midterm-template#readme"
+    
+  }
 }
